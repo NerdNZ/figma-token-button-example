@@ -4,7 +4,7 @@
  */
 
 :root,::after,::before {
-  --global-shadow-lg: drop-shadow(0px 0px 36px rgba(68, 0, 153, 0.4));
+  --global-shadow-lg: [object Object];
   --global-button-lg: 100;
   --global-white: #F6F8FA;
   --global-purple: #440099;
